@@ -5,6 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="com/cg/daythree/Parameterized.java" kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
